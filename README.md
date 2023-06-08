@@ -10,8 +10,7 @@
 ###
 <!-- <div height="60"></div> -->
 <br />
-<br />
-<br />
+
 
 ## Skills 
 
