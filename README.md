@@ -1,4 +1,9 @@
-<h3 align="left">Hi 👋! I am Humzah Siddiqi, currently doing Bachelor's in Computer Science from NUST. I really like to learn new skills and technologies. I am skilled in Web development using React/Node and App development using Flutter. </h2>
+<div>
+<h3 align="left">Hi there 👋! </h3>
+  I am Humzah Siddiqi, currently doing a Bachelor's in Computer Science from NUST. I like to learn new skills and technologies. I am skilled in Web development using React/Node and App development using Flutter. </h3>
+  
+</div>
+
 
 ###
 
