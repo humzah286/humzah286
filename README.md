@@ -1,6 +1,15 @@
 <div>
 <h3 align="left">Hi there 👋! </h3>
-  I am Humzah Siddiqi, currently doing a Bachelor's in Computer Science from NUST. I like to learn new skills and technologies. I am skilled in Web development using React/Node and App development using Flutter. </h3>
+
+Hello, I'm Humzah Siddiqi, a passionate full-stack developer with a flair for creating efficient and impactful web solutions. I have honed my skills in a variety of technical environments, from internships at innovative tech firms to dynamic freelance projects.
+
+My work encompasses engineering robust applications using modern frameworks like Django-REST and Next.js, with a keen focus on improving application performance and user experience. Notably, I have improved build sizes and load times significantly in my projects and spearheaded UI redesigns that have resulted in substantial increases in user engagement.
+
+I'm also deeply involved in developing software with a purpose, such as my project 'Acevision', which leverages deep learning and computer vision to enhance tennis analytics. My portfolio of projects demonstrates my versatility in employing a range of technologies from React and FastAPI to advanced data warehousing and mining techniques.
+
+I'm currently enriching my knowledge base with a Bachelor’s degree in computer science from the National University of Sciences and Technology and continuously exploring new technologies and methodologies to stay at the forefront of the industry.
+
+Discover my work where I blend functionality with innovation to drive success in the digital world.
   
 </div>
 
