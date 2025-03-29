@@ -2,28 +2,14 @@
 ## Introduction
 
 Hi, I’m **Humzah Siddqi**, a passionate Backend Developer & Data Engineer with expertise in FastAPI and Django REST Framework. I have a **B.S. in Computer Science from NUST**, and my work primarily revolves around data analytics and backend development.
-
-
-<br>
 <br>
 
 ## Professional Experience  
 
 Currently, I’m part of **Sila Insights**, where I specialize in analyzing social media influencers and conducting research projects. I have also successfully developed custom web crawlers to collect real estate data from Riyadh and the UAE.  
-
 <br>
-
 Previously, I interned at two esteemed organizations, where I gained hands-on experience in Backend Development using Django and Next.js for front-end.  
-
 <br>
-
-
-
-
-###
-<!-- <div height="60"></div> -->
-<br />
-
 
 ## Skills 
 
