@@ -1,17 +1,22 @@
-<div>
-<h3 align="left">Hi there 👋! </h3>
 
-Hello, I'm Humzah Siddiqi, a passionate full-stack developer with a flair for creating efficient and impactful web solutions. I have honed my skills in a variety of technical environments, from internships at innovative tech firms to dynamic freelance projects.
+## Introduction
 
-My work encompasses engineering robust applications using modern frameworks like Django-REST and Next.js, with a keen focus on improving application performance and user experience. Notably, I have improved build sizes and load times significantly in my projects and spearheaded UI redesigns that have resulted in substantial increases in user engagement.
+Hi, I’m **Humzah Siddqi**, a passionate Backend Developer & Data Engineer with expertise in FastAPI and Django REST Framework. I have a **B.S. in Computer Science from NUST**, and my work primarily revolves around data analytics and backend development.
 
-I'm also deeply involved in developing software with a purpose, such as my project 'Acevision', which leverages deep learning and computer vision to enhance tennis analytics. My portfolio of projects demonstrates my versatility in employing a range of technologies from React and FastAPI to advanced data warehousing and mining techniques.
 
-I'm currently enriching my knowledge base with a Bachelor’s degree in computer science from the National University of Sciences and Technology and continuously exploring new technologies and methodologies to stay at the forefront of the industry.
+<br>
+<br>
 
-Discover my work where I blend functionality with innovation to drive success in the digital world.
-  
-</div>
+## Professional Experience  
+
+Currently, I’m part of **Sila Insights**, where I specialize in analyzing social media influencers and conducting research projects. I have also successfully developed custom web crawlers to collect real estate data from Riyadh and the UAE.  
+
+<br>
+
+Previously, I interned at two esteemed organizations, where I gained hands-on experience in Backend Development using Django and Next.js for front-end.  
+
+<br>
+
 
 
 ###
