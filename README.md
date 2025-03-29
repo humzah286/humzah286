@@ -44,8 +44,3 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
 
 </div>
 
-###
-
-<br clear="both">
-
-###
