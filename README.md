@@ -23,25 +23,25 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="30" alt="qt logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="30" width="30" alt="qt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="icons\stripe-svgrepo-com.svg" height="30" alt="jupyter logo"  />
+  <img src="icons\stripe-svgrepo-com.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="icons\icons8-aws-logo.svg" height="30" alt="jupyter logo"  />
+  <img src="icons\icons8-aws-logo.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" height="30" alt="jupyter logo"  />
+  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="icons\Vercel_favicon.svg" height="30" alt="jupyter logo"  />
+  <img src="icons\Vercel_favicon.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="30" alt="jupyter logo"  />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="icons\postgresql-icon.svg" height="30" alt="jupyter logo"  />
+  <img src="icons\postgresql-icon.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" alt="jupyter logo"  />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
 </div>
 
