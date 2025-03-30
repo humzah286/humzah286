@@ -25,8 +25,6 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="30" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -39,7 +37,12 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img width="12" />
   <img src="icons\Vercel_favicon.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="icons\postgresql-icon.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
 </div>
 
 - Frontend
@@ -55,6 +58,8 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
   <img width="12" />
 </div>
 
