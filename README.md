@@ -31,16 +31,14 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/508727/stripe.svg" height="30" alt="jupyter logo"  />
+  <img src="stripe-svgrepo-com.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-<!--   <img src="" height="30" alt="jupyter logo"  />
+  <img src="Amazon_Web_Services-Logo.wine.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="" height="30" alt="jupyter logo"  />
+  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="" height="30" alt="jupyter logo"  />
+  <img src="Vercel_favicon.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="" height="30" alt="jupyter logo"  />
-  <img width="12" /> -->
   
 </div>
 
