@@ -29,19 +29,19 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="icons\stripe-svgrepo-com.svg" height="30" width="30" alt="jupyter logo"  />
+  <img src="icons\stripe-svgrepo-com.svg" height="30" width="30" alt="stripe logo"  />
   <img width="12" />
-  <img src="icons\icons8-aws-logo.svg" height="30" width="30" alt="jupyter logo"  />
+  <img src="icons\icons8-aws-logo.svg" height="30" width="30" alt="aws logo"  />
   <img width="12" />
-  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" height="30" width="30" alt="jupyter logo"  />
+  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" height="30" width="30" alt="azure logo"  />
   <img width="12" />
   <img src="icons\Vercel_favicon.svg" height="30" width="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="30" width="30" alt="jupyter logo"  />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="30" width="30" alt="postman logo"  />
   <img width="12" />
-  <img src="icons\postgresql-icon.svg" height="30" width="30" alt="jupyter logo"  />
+  <img src="icons\postgresql-icon.svg" height="30" width="30" alt="postgre logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" width="30" alt="jupyter logo"  />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" width="30" alt="mongo logo"  />
   <img width="12" />
 </div>
 
