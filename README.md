@@ -44,6 +44,7 @@ Previously, I interned at two esteemed organizations, where I gained hands-on ex
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" width="30" alt="mongo logo"  />
   <img width="12" />
 </div>
+<br>
 
 - Frontend
 <div align="left">
